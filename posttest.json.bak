@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A cold storage room has wall made of 0.21m thick layer of brick (k = 0.98W/m-k) on the outside. The middle layer is of 0.07m thick of plastic foam (k = 0.2W/m-k) and 0.015m inside layer wood (k = 0.17W/m-k). The outside and inside convective heat transfer coefficient and temperature are 12W/m-k, 22oC and 29W/m-k, -3.7 C respectively. Wall area is 93m<sup>2</sup>. Find the total equivalent heat resistance?",
+      "qid": 1,
+      "option_a": "0.0020283 k/w",
+      "option_b": "0.00143434 k/w",
+      "option_c": "0.0008418 k/w",
+      "option_d": "0.0008283 k/w",
+      "correct_option": "d"
+   },
+   {
+      "question": "In above question find the heat removed by the refrigeration",
+      "qid": 2,
+      "option_a": "-3013.2424 w",
+      "option_b": "-3102.6656 w",
+      "option_c": "-3430.3277 w",
+      "option_d": "-3232.2143 w",
+      "correct_option": "b"
+   }
+]
